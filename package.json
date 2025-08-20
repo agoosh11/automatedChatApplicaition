@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@mendable/firecrawl-js": "^1.24.0",
+    "dotenv": "^16.0.0",
+    "node-fetch": "^3.3.2",
+    "pg": "^8.7.0",
+    "uuid": "^9.0.0"
+  }
+}
