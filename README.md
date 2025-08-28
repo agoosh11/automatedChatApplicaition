@@ -14,6 +14,7 @@ Example:
 ```bash
 node crawl.js https://example.com example_content
 ```
+Here, in your database, the scraped data would be saved under example_content table. 
 
 ## Environment Variables
 
